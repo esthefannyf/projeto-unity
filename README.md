@@ -23,17 +23,6 @@ Jogo 2D de aventura em grade feito em Unity 6 para o **Projeto Introdução ao U
 - Cada fase tem tempo limite e você tem 3 vidas. Ao terminar, aparecem o tempo total e a pontuação.
 - Se uma pedra travar o caminho, é só desfazer a jogada ou reiniciar a fase.
 
-## Itens da rubrica
-
-- **Tempo:** contagem regressiva por fase, relógios de bônus, tempo total na tela final e pontos extras pelo tempo restante.
-- **Inimigos:** cobras em patrulha e múmia perseguidora.
-- **Visual:** sprites pixel art próprios com tema de ruínas.
-- **Áudio:** música em loop e efeitos para passos, pedras, diamantes, chaves, portas, relógios, dano, vitória e derrota.
-- **UI:** fase, diamantes, chaves, tempo, pontos e vidas, além de menu inicial, pausa e telas de fim.
-- **Controles:** teclado e controle de Xbox.
-- **Level design:** três fases com tema de templo, cada uma com um desafio novo (chaves e portas, pedras e espinhos, inimigos).
-- Sem softlock: desfazer jogada, reiniciar fase e menu de pausa sempre disponíveis.
-
 ## Estrutura do código
 
 - `Assets/Scripts/Core`: regras do jogo sem MonoBehaviour (`World`, `GameSession`, `Level`, `EnemyBehaviors`).
