@@ -51,5 +51,6 @@ Padrões usados: Strategy (comportamento dos inimigos), Memento (desfazer), Obse
 
 - Inspiração de gênero e mecânicas: o jogo mobile Diamond Rush (Gameloft). Nenhum sprite, som ou código dele foi usado.
 - Tutorial base: "Introdução Rápida" da disciplina.
-- Sprites e sons: criados para este projeto com o script `Tools/gerar_assets.py`.
+- Sprites: pixel art original de 16x16, criada para este projeto com auxílio de ferramenta de IA.
+- Sons e música: gerados para este projeto pelo script `Tools/gerar_sons.py`.
 - Engine: Unity 6 (6000.6.6f1), Input System e Universal Render Pipeline.
