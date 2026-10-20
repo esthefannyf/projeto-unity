@@ -1,6 +1,6 @@
 # Diamond Rush
 
-Jogo 2D de aventura em grade feito em Unity 6 para o **Projeto Introdução ao Unity** (Insper, 2026), a partir do tutorial "Introdução Rápida". Estilo puzzle-aventura: colete todos os diamantes, empurre pedras, abra portas e fuja da ruína antes que o tempo acabe.
+Jogo 2D de aventura em grade feito em Unity 6 para o **Projeto Introdução ao Unity** (Insper, 2026). Estilo puzzle-aventura: colete todos os diamantes, empurre pedras, abra portas e fuja da ruína antes que o tempo acabe.
 
 **Autor:** Esthefanny Sousa Farias
 
