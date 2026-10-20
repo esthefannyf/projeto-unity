@@ -2,8 +2,9 @@
 
 Jogo 2D de aventura em grade feito em Unity 6 para o **Projeto Introdução ao Unity** (Insper, 2026), a partir do tutorial "Introdução Rápida". Estilo puzzle-aventura: colete todos os diamantes, empurre pedras, abra portas e fuja da ruína antes que o tempo acabe.
 
-**Autora:** Esthefanny Sousa Farias
-**Jogue no navegador (itch.io):** LINK_ITCH
+**Autor:** Esthefanny Sousa Farias
+
+**Jogue no navegador (itch.io):** https://esthefannyf.itch.io/diamond-rush
 
 ![Capa](capa_itch.png)
 
@@ -42,4 +43,4 @@ Padrões usados: Strategy (comportamento dos inimigos), Memento (desfazer), Obse
 - Tutorial base: "Introdução Rápida" da disciplina.
 - Sprites: pixel art original de 16x16, criada para este projeto com auxílio de ferramenta de IA.
 - Sons e música: gerados para este projeto pelo script `Tools/gerar_sons.py`.
-- Engine: Unity 6 (6000.6.6f1), Input System e Universal Render Pipeline.
+
